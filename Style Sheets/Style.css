@@ -22,7 +22,9 @@ header p {
 }
 .logo{
     margin-left: 40px;
+    cursor: pointer;
 }
+
 nav{
     display: flex;
     align-items: center;
